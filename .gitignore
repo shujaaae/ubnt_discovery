@@ -1,0 +1,29 @@
+# ─── Python ───────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+.venv/
+venv/
+env/
+
+# ─── PyInstaller build artifacts ──────────────────────────
+build/
+dist/
+
+# ─── Compiled binaries / installers (built locally) ───────
+*.exe
+*.msi
+installer/*.exe
+
+# ─── Legacy Java tool (not part of the Python source) ─────
+*.jar
+
+# ─── Editor / OS / local tooling ──────────────────────────
+.claude/
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
+.DS_Store
