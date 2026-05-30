@@ -14,6 +14,17 @@ dependencies**.
 
 ---
 
+## ⬇️ Download (Windows)
+
+Grab the ready-to-run installer from the
+[**latest release**](https://github.com/shujaaae/ubnt_discovery/releases/latest) —
+download `UBNT-Discovery-Setup-1.0.0.exe`, run it, and you're done. No Python
+required.
+
+Prefer to run from source or build it yourself? See the sections below.
+
+---
+
 ## ✨ Features
 
 - **UBNT Discovery Protocol** — sends V1 + V2 UDP broadcast packets on port 10001
